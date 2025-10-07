@@ -76,4 +76,4 @@ class MinerSelector:
         selected_mask = random_vals < P
         selected_uids = np.array(self.miner_uids)[selected_mask]
         # return selected_uids.tolist()
-        return [10, 11]
+        return [10, 11, 12]

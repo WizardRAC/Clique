@@ -1,10 +1,11 @@
 README.md
 setup.py
 CliqueAI/__init__.py
-CliqueAI/gpu_clique_finder.py
+CliqueAI/gpu_solver.py
 CliqueAI/miner.py
 CliqueAI/protocol.py
 CliqueAI/validator.py
+CliqueAI/worker.py
 CliqueAI.egg-info/PKG-INFO
 CliqueAI.egg-info/SOURCES.txt
 CliqueAI.egg-info/dependency_links.txt
